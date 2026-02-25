@@ -1,0 +1,2 @@
+This project is about hosting my sample resume on an S3 bucket and enabling static website on it.
+Later, using CloudFront for https secure connectivity and AWS Load Balance (ALB) infront of this CloudFront handle the https requests.
